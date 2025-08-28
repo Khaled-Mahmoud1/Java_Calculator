@@ -1,9 +1,27 @@
 # Java_Calculator
-# Calculator Project
 
-A simple Java console-based calculator.
+Simple Java Calculator
+Description
 
-## Features:
-- Supports +, -, *, /, and % operationsز
-- Handles invalid operations and division by zeroز
-- Allows multiple operations until user chooses to exitز
+This is a simple Java console-based calculator that allows users to perform basic arithmetic operations between two numbers.
+The program supports continuous calculations until the user chooses to exit.
+
+Features
+
+Supports the following operations:
+
+Addition (+)
+
+Subtraction (-)
+
+Multiplication (*)
+
+Division (/) (prevents division by zero)
+
+Modulo (%)
+
+Input validation for invalid operators.
+
+User-friendly loop to perform multiple calculations consecutively.
+
+Graceful exit option when the user chooses to stop.
