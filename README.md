@@ -2,12 +2,12 @@
 
 Simple Java Calculator
 
-##Description:
+Description:
 
 This is a simple Java console-based calculator that allows users to perform basic arithmetic operations between two numbers.
 The program supports continuous calculations until the user chooses to exit.
 
-##Features:
+Features:
 
 Supports the following operations:
 
